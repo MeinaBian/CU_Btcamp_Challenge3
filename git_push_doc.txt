@@ -1,8 +1,0 @@
-# git clean -d -i
-delete file interaction
-
-
-
-#One-liner to stage ALL files (modified, deleted, and new) and commit with comment:
-
-git add --all && git commit -m "comment"
