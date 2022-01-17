@@ -1,11 +1,12 @@
-# git clean -d -i
-delete file interaction
-
-
 
 #One-liner to stage ALL files (modified, deleted, and new) and commit with comment:
 
 git add --all && git commit -m "comment"
+
+# git clean -d -i
+delete file interaction
+
+
 
 # git ignore
 
@@ -74,5 +75,24 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 adele@White MINGW64 ~/Desktop/CU-VIRT-FIN-PT-12-2021-U-B/Starter_Code (main)
 $ git push
+
+# git_cheatsheet_nextline
+Interpreting newlines as <br /> used to be a feature of Github-flavored markdown
+or 
+a
+b
+c
+into
+
+a__
+b__
+c
+(where _ is a blank space).
+
+Or, you can add explicit <br /> tags.
+
+a <br />
+b <br />
+c
 
 
