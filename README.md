@@ -1,5 +1,5 @@
-#CU_Btcamp_Challenge3
-\\by Meina Bian  
+#CU_Btcamp_Challenge3 <br />
+by Meina Bian  <br />
 Program: Jupyter Notebook  
 file_name: crypto_arbitrage.ipynb  
 
