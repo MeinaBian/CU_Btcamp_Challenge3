@@ -1,13 +1,13 @@
 
 #One-liner to stage ALL files (modified, deleted, and new) and commit with comment:
-
 git add --all && git commit -m "comment"
+----------------------------------------------------
 
 # git clean -d -i
 delete file interaction
 
 
-
+------------------------------------------------------------
 # git ignore
 
 https://www.youtube.com/watch?v=ErJyWO8TGoM
@@ -67,7 +67,6 @@ origin  https://github.com/MeinaBian/CU_Btcamp_Challenge3.git (fetch)
 origin  https://github.com/MeinaBian/CU_Btcamp_Challenge3.git (push)
 (PythonData)
 
-
 $ git push --set-upstream origin main
 Everything up-to-date
 Branch 'main' set up to track remote branch 'main' from 'origin'.
@@ -75,6 +74,8 @@ Branch 'main' set up to track remote branch 'main' from 'origin'.
 
 adele@White MINGW64 ~/Desktop/CU-VIRT-FIN-PT-12-2021-U-B/Starter_Code (main)
 $ git push
+-----------------------------------------------
+
 
 # git_cheatsheet_nextline
 Interpreting newlines as <br /> used to be a feature of Github-flavored markdown
