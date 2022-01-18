@@ -17,6 +17,8 @@ Challenge will consist of 3 phases.
 -Data beginning datas  
 -Data end dates  
 
-#the libraries you used in the analysis.  
-
+# the libraries you used in the analysis.  
+import pandas as pd
+from pathlib import Path
+%matplotlib inline
 
